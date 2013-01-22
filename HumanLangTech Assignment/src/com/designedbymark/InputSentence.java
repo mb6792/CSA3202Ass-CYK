@@ -26,6 +26,7 @@ public class InputSentence {
 		
 		for(int i = 0; i<inArr.size(); i++){
 			for(int j = 0; j<inArr.size(); j++){
+				add here
 				table[i][j] = "";
 			}
 		}
